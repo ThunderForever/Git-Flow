@@ -7,11 +7,11 @@
 
 # Git Workflow
 
-![none](G:/SE/gitflow/1.png)
+![none](https://raw.githubusercontent.com/thunderup012/Git-Flow/1ba12b569f9d0824befb72d75346f4dc38618c31/gitflow/1.png)
 
 - **Definition**
 
- **GitHub Flow** is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. 
+ **GitHub Flow** is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly.
 
 ---
 ## Three classifications of **Git Workflow**
@@ -40,7 +40,7 @@ Feature-driven development(abbr. *FDD*),
 - first developed
 - widely adopted
 
-![none](G:/SE/gitflow/2.png)
+![none](https://raw.githubusercontent.com/thunderup012/Git-Flow/1ba12b569f9d0824befb72d75346f4dc38618c31/gitflow/2.png)
 
 ### Two Features
 
@@ -71,7 +71,7 @@ Once developed, they are merged into *develop*  or *master* and then deleted.
 ## Github Flow
 Simplified version of **Git Flow**(used in Github.com)
 
-![none](G:/SE/gitflow/3.png)
+![none](https://raw.githubusercontent.com/thunderup012/Git-Flow/1ba12b569f9d0824befb72d75346f4dc38618c31/gitflow/3.png)
 
 ### Feature
 
@@ -96,7 +96,7 @@ If the code needs to be reviewed and some new code is committed during the revie
 ## Gitlab Flow 
 Combination of **Git Flow** and **Github Flow**(recommended in Gitlab.com)
 
-![none](G:/SE/gitflow/4.png)
+![none](https://raw.githubusercontent.com/thunderup012/Git-Flow/1ba12b569f9d0824befb72d75346f4dc38618c31/gitflow/4.png)
 
 ### The most Important Principle ----- **Upstream First Policy**
 
@@ -107,7 +107,7 @@ There is only one master branch *master*, which is the upstream of all the other
 
 For the 'release' project, it is recommend that each stable version should be pulled from the *master* branch.
 
-![none](G:/SE/gitflow/5.png)
+![none](https://raw.githubusercontent.com/thunderup012/Git-Flow/1ba12b569f9d0824befb72d75346f4dc38618c31/gitflow/5.png)
 
 ------
 
